@@ -27,12 +27,12 @@ export async function AppSidebar() {
           className="text-primary mt-4 mb-12 flex flex-col items-start justify-start px-2 text-3xl font-black tracking-widest uppercase"
           >
             <p>
-              Music
+              Sonix
             </p>
             <p
             className="text-lg"
             >
-              Generator
+              AI
             </p>
           </SidebarGroupLabel>
           <SidebarGroupContent>
